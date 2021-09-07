@@ -1,0 +1,20 @@
+{
+    "name": "minecraft-ww1984-md",
+    "version": "1.0",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "Beams of Color.md",
+        "Dance Floor.md",
+        "Hidden in Plain Sight.md",
+        "Stealth Mission.md",
+        "Suspicious Crates.md"
+
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
