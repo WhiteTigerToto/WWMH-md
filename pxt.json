@@ -6,11 +6,11 @@
         "builder": "*"
     },
     "files": [
-        "Beams of Color.md",
-        "Dance Floor.md",
-        "Hidden in Plain Sight.md",
-        "Stealth Mission.md",
-        "Suspicious Crates.md"
+        "beams.md",
+        "floor.md",
+        "last.md",
+        "sneak.md",
+        "crates.md"
 
     ],
     "supportedTargets": [
